@@ -1,0 +1,14 @@
+.home-body {
+    width:  100%;
+    height: 100vh;
+    background-image: url("../../assets//4926119.jpg");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    font-size: 121px;
+    color: chocolate;
+    font-weight: 100;
+}
